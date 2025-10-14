@@ -1,4 +1,4 @@
-# Pharo Interfase Garden
+# Pharo Interface Garden
 A place where all C bindings for pharo can hang around, along with its creator, [pharo-cig](https://github.com/pharo-cig/pharo-cig).
 
 ## Warning! Install requirements 
