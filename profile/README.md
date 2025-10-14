@@ -10,6 +10,9 @@ you need to first install the compatible version of [UnifiedFFI](https://github.
 Metacello new
 	repository: 'github://pharo-cig/UnifiedFFI:stable';
 	baseline: 'UnifiedFFIFull';
+	onConflict: #useIncoming;
+	onUpgrade: #useIncoming;
+	ignoreImage;
 	load.
 ```
 
