@@ -8,7 +8,7 @@ you need to first install the compatible version of [UnifiedFFI](https://github.
 
 ```smalltalk
 Metacello new
-	repository: 'github://pharo-cig/UnifiedFFI:v1.0';
+	repository: 'github://pharo-cig/UnifiedFFI:v1.1';
 	baseline: 'UnifiedFFIFull';
 	onConflict: #useIncoming;
 	onUpgrade: #useIncoming;
